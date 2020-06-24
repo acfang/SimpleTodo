@@ -32,7 +32,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had difficulty being able to drag and drop UI elements while editing activity_main.xml in Design mode, but I fixed this by clicking on the "Enable Autoconnection to Parent" icon.
 
 ## License
 
